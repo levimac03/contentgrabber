@@ -2,6 +2,10 @@
 
 Content Grabber is a lightweight PowerShell script that interactively aggregates text from files into one output file.
 
+<p align="center">
+  <img src="screenshot.png" alt="DeepUI Screenshot" width="700">
+</p>
+
 ## Features
 
 - **Interactive Interface:**  
