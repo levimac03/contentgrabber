@@ -25,5 +25,5 @@ Content Grabber is a lightweight PowerShell script that interactively aggregates
    .\ContentGrabber.ps1
 4. Review the displayed list of files and press Enter to begin processing.
 
-Contributing
+**Contributing**
 Contributions, improvements, and suggestions are welcome. Please fork the repository and submit pull requests or open issues.
